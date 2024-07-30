@@ -25,7 +25,7 @@ author_profile: true
 
 #### [Distributed federated service chaining: A scalable and cost-aware approach for multi-domain networks](https://doi.org/10.1016/j.comnet.2022.109044), Elsevier, Computer Networks, 2022 (IF=5.6, CCF B).
 
-#### [B-Scale: Bottleneck-Aware VNF Scaling and Flow Routing in Edge Clouds](https://ieeexplore.ieee.org/abstract/document/9912772), IEEE ISCC, 2022.
+#### [B-Scale: Bottleneck-Aware VNF Scaling and Flow Routing in Edge Clouds](https://ieeexplore.ieee.org/abstract/document/9912772), IEEE ISCC, 2022 (CCF C).
 
 
 #### [Distributed federated service chaining for heterogeneous network environments](https://dl.acm.org/doi/10.1145/3468737.3494091), ACM/IEEE UCC, 2021.

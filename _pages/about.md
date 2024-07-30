@@ -23,5 +23,10 @@ Chen has extensive experience collaborting with industry such as Siemens, Infine
 #### Our paper "[Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903)" is accepted by IEEE Transactions on Services Computing (IF 8.1, CCF A).
 
 
-<br />
-[![web counter](https://hitwebcounter.com/counter/counter.php?page=7908243&style=0006&nbdigits=6&type=ip&initCount=0 "Visitor Counter")](https://www.hitwebcounter.com)
+
+
+<div style="display:inline-block;width:200px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5rhtrmirbbb&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7908243&style=0006&nbdigits=6&type=ip&initCount=0" title="Visitor Counter" Alt="web counter"   border="0" /></a>      
+</div>
