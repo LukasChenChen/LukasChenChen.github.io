@@ -34,4 +34,4 @@ author_profile: true
 ##### [B-Scale: Bottleneck-Aware VNF Scaling and Flow Routing in Edge Clouds](https://ieeexplore.ieee.org/abstract/document/9912772), IEEE ISCC, 2022.
 <br />
 
-##### [Distributed federated service chaining for heterogeneous network environments] (https://dl.acm.org/doi/10.1145/3468737.3494091), ACM/IEEE UCC, 2021.
+##### [Distributed federated service chaining for heterogeneous network environments](https://dl.acm.org/doi/10.1145/3468737.3494091), ACM/IEEE UCC, 2021.
