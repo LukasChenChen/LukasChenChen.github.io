@@ -24,8 +24,8 @@ author:
   avatar           : "chen.jpg"
   name             : "Chen Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate at University of Cambridge"
-  location         : "Department of Computer Science and Technology"
+  bio              : "Research Associate at Department of Computer Science and Technology"
+  location         : "Cambridge, UK"
   employer         : "University of Cambridge"
   uri              : # URL
   email            : "cc2181@cam.ac.uk" 
