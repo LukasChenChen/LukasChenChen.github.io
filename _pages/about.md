@@ -19,7 +19,7 @@ system, including latency, energy consumption and system cost.
 Chen has extensive experience collaborting with industry such as Siemens, Infineon, EMS-UK, National Physical Lab and many others.
 <br>
 <br>
-Also, Chen is actively serving as a TPC member and reviewer for many prestigious conferences and journals such as ICDCS 2024,IFIP NPC 2024, IEEE MSN 2023, IEEE TSC, Computer Networks, JNCA and etc.
+Also, Chen is actively serving as a TPC member and reviewer for many prestigious conferences and journals such as ICDCS 2024, IFIP NPC 2024, IEEE MSN 2023, IEEE TSC, Computer Networks, JNCA and etc.
 <br>
 <br>
 [My University Website](https://www.cst.cam.ac.uk/people/cc2181)

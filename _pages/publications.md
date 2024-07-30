@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-#### Context-aware Container Orchestration in Serverless Edge Computing, Globecom 2024, (CCF C).
+#### Context-aware Container Orchestration in Serverless Edge Computing, GLOBECOM 2024 (CCF C).
 
 #### [Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903), IEEE Transactions on Services Computing, 2024 (IF=8.1, CCF A)
 
@@ -20,7 +20,7 @@ author_profile: true
 #### [Intelligent Low Cost Monitoring for Smart Digital Manufacturing](https://digital-library.theiet.org/content/conferences/10.1049/icp.2023.1737), LODISA 2023.
 
 
-#### [S-Cache: Function Caching for Serverless Edge Computing](https://dl.acm.org/doi/10.1145/3578354.3592865), ACM EdgeSys, 2023.
+#### [S-Cache: Function Caching for Serverless Edge Computing](https://dl.acm.org/doi/10.1145/3578354.3592865), ACM EdgeSys, part of EuroSys, 2023.
 
 
 #### [Distributed federated service chaining: A scalable and cost-aware approach for multi-domain networks](https://doi.org/10.1016/j.comnet.2022.109044), Elsevier, Computer Networks, 2022 (IF=5.6, CCF B).
