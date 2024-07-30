@@ -22,4 +22,6 @@ Chen has extensive experience collaborting with industry such as Siemens, Infine
 #### Invited to the IFIP [NCP 2024 program committee](https://www.npc-conference.com/#/npc2024/)! Welcome to submit your papers!
 #### Our paper "[Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903)" is accepted by IEEE Transactions on Services Computing (IF 8.1, CCF A).
 
-![Visitor Count](https://profile-counter.glitch.me/{https://lukaschenchen.github.io/}/count.svg)
+
+
+[![web counter](https://hitwebcounter.com/counter/counter.php?page=7908243&style=0006&nbdigits=6&type=ip&initCount=0 "Visitor Counter")](https://www.hitwebcounter.com)
