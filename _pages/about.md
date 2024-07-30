@@ -8,13 +8,16 @@ redirect_from:
 ---
 
 
-Chen is a postdoctoral researcher with the [System Research Group](https://www.cst.cam.ac.uk/research/themes/systems-and-networking), Department of Computer Science and Technology, University of Cambridge.<br>
+Chen is a postdoctoral researcher with the [System Research Group](https://www.cst.cam.ac.uk/research/themes/systems-and-networking), Department of Computer Science and Technology, University of Cambridge.
+In SRG, Chen works with Professor Richard Mortier, exploring the opportunities for efficient virtualization in small edge devices in the context of serverless computing.
+<br />
 Prior to that, Chen received his PhD in Computer Science from Loughborough Univeristy (LU), UK with a full scholarship.<br>
-His research interests are broadly in areas of IoT, Serverless Computing, Cloud/Edge Computing, Network Resource Orchestration, In-network Computing, 
-Distributed System and Mobile Networks. His latest work focus on resource orchestration in serverless edge computing, aiming to optimize the overall performance for the 
+His research interests are broadly in areas of Serverless Computing, Cloud/Edge Computing, Network Resource Orchestration, In-network Computing, 
+Distributed System and IoTs. His latest work focus on resource orchestration in serverless edge computing, aiming to optimize the overall performance for the 
 system, including latency, energy consumption and system cost.
 Chen has extensive experience collaborting with industry such as Siemens, Infineon, EMS-UK, National Physical Lab and many others.
 <br />
+Also, Chen is actively serving as a TPC member and reviewer for many prestigious conferences and journals such as ICDCS 2024,IFIP NPC 2024, IEEE MSN 2023, IEEE TSC, Computer Networks, JNCA and etc.
 <br />
 [My University Website](https://www.cst.cam.ac.uk/people/cc2181)
 
