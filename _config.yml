@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chen Chen / BEng, M.S.c., PhD, AFHEA "
+title                    : "Chen Chen / BEng, M.S.c., PhD"
 title_separator          : "-"
 name                     : &name "Chen Chen"
 description              : &description "personal description"
