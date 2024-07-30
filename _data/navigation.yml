@@ -8,12 +8,12 @@ main:
 
   - title: "Talks"
     url: /talks/    
+    
+  - title: "Funding"
+    url: /funding/  
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
     
   - title: "skills"
     url: /skills/
