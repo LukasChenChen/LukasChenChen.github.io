@@ -12,7 +12,9 @@ Chen is a postdoctoral researcher with the [System Research Group](https://www.c
 In SRG, Chen works with Professor Richard Mortier, exploring the opportunities for efficient virtualization in small edge devices in the context of serverless computing.
 <br>
 <br>
-Prior to that, Chen received his PhD in Computer Science from Loughborough Univeristy (LU), UK with a full scholarship.<br>
+Prior to that, Chen received his PhD in Computer Science from Loughborough Univeristy (LU), UK with a full scholarship.
+Chen received his BEng from Xidian University, Xi'an, China.
+<br>
 His research interests are broadly in areas of Serverless Computing, Cloud/Edge Computing, Network Resource Orchestration, In-network Computing, 
 Distributed System and IoTs. His latest work focus on resource orchestration in serverless edge computing, aiming to optimize the overall performance for the 
 system, including latency, energy consumption and system cost.
