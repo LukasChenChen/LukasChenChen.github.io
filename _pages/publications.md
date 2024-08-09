@@ -12,37 +12,18 @@ output: html_document
 {% endif %}
 
 
-Chen, Chen, Gregory Hawkridge, Anandarup Mukherjee, Pedro Juan Rivera
-Torres, Zhengyang Ling, Catia Santos, and Duncan McFarlane. 2023.
-“Intelligent Low-Cost Monitoring for Smart Digital Manufacturing.” In
-*1st Workshop on Low-Cost Digital Solutions for Industrial Automation*.
+Chen, C., Herrera, M., Zheng, G., Xia, L., Ling, Z., & Wang, J. (2024). Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching. IEEE Transactions on Services Computing.
 
-Chen, Chen, Manuel Herrera, Ge Zheng, Liqiao Xia, Zhengyang Ling, and
-Jiangtao Wang. 2024. “Cross-Edge Orchestration of Serverless Functions
-with Probabilistic Caching.” *IEEE Transactions on Services Computing*.
+Li, L., Herrera, M., Mukherjee, A., Zheng, G., Chen, C., Dhada, M., … Parlikad, A. K. (2024). Predictive alarm models for improving radio access network robustness. SSRN 4790016.
 
-Chen, Chen, Lars Nagel, Lin Cui, and Fung Po Tso. 2021. “Distributed
-Federated Service Chaining for Heterogeneous Network Environments.” In
-*14th Ieee/Acm International Conference on Utility and Cloud Computing
-(Ucc 2021)*, 1–10.
+Chen, C., Hawkridge, G., Mukherjee, A., Torres, P. J. R., Ling, Z., Santos, C., & McFarlane, D. (2023). Intelligent Low-Cost Monitoring for Smart Digital Manufacturing. 1st Workshop on Low-Cost Digital Solutions for Industrial Automation.
 
-———. 2022a. “B-Scale: Bottleneck-Aware Vnf Scaling and Flow Routing in
-Edge Clouds.” In *27th Ieee Symposium on Computers and Communications
-(Iscc 2022)*, 1–6. IEEE.
+Chen, C., Nagel, L., Cui, L., & Tso, F. P. (2023). S-cache: Function caching for serverless edge computing. Proceedings of the 6th International Workshop on Edge Systems, Analytics and Networking, 1–6.
 
-———. 2022b. “Distributed Federated Service Chaining: A Scalable and
-Cost-Aware Approach for Multi-Domain Networks.” *Computer Networks* 212:
-109044.
+Torres, P. J. R., & Chen, C. (2023). Maintenance on a shoestring: the low-cost journey from zero to condition-based maintenance.
 
-———. 2023. “S-Cache: Function Caching for Serverless Edge Computing.” In
-*Proceedings of the 6th International Workshop on Edge Systems,
-Analytics and Networking*, 1–6.
+Chen, C., Nagel, L., Cui, L., & Tso, F. P. (2022). B-Scale: Bottleneck-aware VNF Scaling and Flow Routing in Edge Clouds. 27th IEEE Symposium on Computers and Communications (ISCC 2022), 1–6. IEEE.
 
-Li, Luning, Manuel Herrera, Anandarup Mukherjee, Ge Zheng, Chen Chen,
-Maharshi Dhada, Henry Brice, Arjun Parekh, and Ajith Kumar Parlikad.
-2024. “Predictive Alarm Models for Improving Radio Access Network
-Robustness.” *SSRN 4790016*.
+Chen, C., Nagel, L., Cui, L., & Tso, F. P. (2022). Distributed federated service chaining: A scalable and cost-aware approach for multi-domain networks. Computer Networks, 212, 109044.
 
-Torres, Pedro Juan Rivera, and Chen Chen. 2023. “Maintenance on a
-Shoestring: The Low-Cost Journey from Zero to Condition-Based
-Maintenance.”
+Chen, C., Nagel, L., Cui, L., & Tso, F. P. (2021). Distributed federated service chaining for heterogeneous network environments. 14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2021), 1–10.
