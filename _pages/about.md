@@ -30,7 +30,7 @@ Also, Chen is actively serving as a TPC member and reviewer for many prestigious
 
 
 ## News
-#### Our paper "Context-aware Container Orchestration in Serverless Edge Computing" accepted by GLOBECOM 24 (CCF C). 
+#### Our paper "Context-aware Container Orchestration in Serverless Edge Computing" accepted by GLOBECOM 24. 
 #### Invited to the IFIP [NCP 2024 program committee](https://www.npc-conference.com/#/npc2024/)! Welcome to submit your papers!
 #### Our paper "[Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903)" is accepted by IEEE Transactions on Services Computing (IF 8.1, CCF A).
 
