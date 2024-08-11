@@ -50,7 +50,7 @@ The hub will be supported by £20 million from the UK government backed Made Sma
 
 # [Serverless Edge Computing for 5G Edge Devices](https://gtr.ukri.org/projects?ref=10040850), Innovate UK, £499,223
 <p>Role: Research Associate （Lead）<br> </p>
-    Edge devices require high-quality internet connections as alerts/detections need to be processed in real-time to enable effective action to minimise the impact of health&safety issues. 
+</p>Edge devices require high-quality internet connections as alerts/detections need to be processed in real-time to enable effective action to minimise the impact of health&safety issues. 
     On construction sites and other industrial environments, the lack of reliable connectivity is the main barrier to adoption. Construction firms also need to ensure that personal data is protected.
     Existing cloud-based solutions for edge computing require complex set-up and configuration, create potential data security issues, and are not dynamic enough to facilitate real-time data processing and achieve required latency(5ms).
     EMS and Loughborough University are developing a novel serverless edge FaaS (Function as a Service) engine(ServerlessEdge) to optimise existing i-MO routers to enable connected edge devices to operate onsite in real-time in traditionally low connectivity environments without the need to deploy and support additional on-site IT infrastructure or centralised services.
