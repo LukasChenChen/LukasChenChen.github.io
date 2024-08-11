@@ -7,7 +7,7 @@ author_profile: true
 <br>
 <br>
 
-<h2>[EDGELESS](https://edgeless-project.eu), European Union’s Horizon Europe research and innovation programme. - 101092950</h2>
+# [EDGELESS](https://edgeless-project.eu), European Union’s Horizon Europe research and innovation programme. - 101092950
 <p>Role: Research Associate <br> </p>
 <p>University of Cambridge <br> </p>
 <p>(Feb 2024 - Present) 
@@ -17,7 +17,7 @@ smoothly integrated with cloud resources, which is a giant leap forward compared
 </p>
 
 
-<h2>Internet of Digital Twin Things, Innovate UK, €2.68 million</h2>
+# Internet of Digital Twin Things, Innovate UK, €2.68 million
 <p>Role: Research Associate (Lead)<br> </p>
 <p> 
 Current digital twin practices have limitations due to the central location of most digital twin models, which can cause data processing latency
@@ -37,7 +37,7 @@ simulation results.
 </p>
 
 
-<h2>[Smart Manufacturing Data Hub](https://smdh.uk/), Innovate UK, £50 million</h2>
+# [Smart Manufacturing Data Hub](https://smdh.uk/), Innovate UK, £50 million
 <p>Role: Research Associate <br> </p>
 <p>(Nov 2022- Feb 2024) 
 The £50 million Smart Manufacturing Data Hub (SMDH) will support small and medium size manufacturers to capture and better utilise their data, 
@@ -48,7 +48,7 @@ The hub will be supported by £20 million from the UK government backed Made Sma
 </p>
 
 
-<h2>[Serverless Edge Computing for 5G Edge Devices](https://gtr.ukri.org/projects?ref=10040850), Innovate UK, £499,223</h2>
+# [Serverless Edge Computing for 5G Edge Devices](https://gtr.ukri.org/projects?ref=10040850), Innovate UK, £499,223
 <p>Role: Research Associate （Lead）<br> </p>
     Edge devices require high-quality internet connections as alerts/detections need to be processed in real-time to enable effective action to minimise the impact of health&safety issues. 
     On construction sites and other industrial environments, the lack of reliable connectivity is the main barrier to adoption. Construction firms also need to ensure that personal data is protected.
@@ -56,7 +56,7 @@ The hub will be supported by £20 million from the UK government backed Made Sma
     EMS and Loughborough University are developing a novel serverless edge FaaS (Function as a Service) engine(ServerlessEdge) to optimise existing i-MO routers to enable connected edge devices to operate onsite in real-time in traditionally low connectivity environments without the need to deploy and support additional on-site IT infrastructure or centralised services.
 </p>
 
-<h2>[Intelligent Edge of Things, Innovate UK](https://gtr.ukri.org/projects?ref=106199), £972,750</h2>
+# [Intelligent Edge of Things, Innovate UK](https://gtr.ukri.org/projects?ref=106199), £972,750
 <p>Role: Research Assistant （Lead）<br> </p>
 <p>(Nov 2021-2022 June) This project takes the concept of edge computing to a new level by introducing the third, local, tier in addition to
 the data centre and edge computing tiers. We utilise Artificial Intelligence to unleash the full potential of each
