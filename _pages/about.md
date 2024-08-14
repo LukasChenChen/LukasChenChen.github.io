@@ -9,7 +9,7 @@ redirect_from:
 
 
 Chen is a postdoctoral researcher with the [System Research Group](https://www.cst.cam.ac.uk/research/themes/systems-and-networking), Department of Computer Science and Technology, University of Cambridge.
-In SRG, Chen works with Professor Richard Mortier, exploring the opportunities for efficient virtualization in small edge devices in the context of serverless computing.
+In SRG, Chen works on the [EDGELESS project](https://edgeless-project.eu/) with [Professor Richard Mortier](https://www.cst.cam.ac.uk/people/rmm1002), exploring the opportunities for efficient virtualization in small edge devices for serverless computing.
 <br>
 <br>
 Prior to that, Chen received his PhD in Computer Science from Loughborough Univeristy (LU), UK with a full scholarship.
@@ -21,7 +21,10 @@ system, including latency, energy consumption and system cost.
 Chen has extensive experience collaborting with industry such as Siemens, Infineon, EMS-UK, National Physical Lab and many others.
 <br>
 <br>
-Also, Chen is actively serving as a TPC member and reviewer for many prestigious conferences and journals such as ICDCS 2024, IFIP NPC 2024, IEEE MSN 2023, IEEE TSC, Computer Networks, JNCA and etc.
+Also, Chen is actively serving as a TPC member and reviewer for many conferences and journals such as ICDCS 2024, IFIP NPC 2024, IEEE MSN 2023, IEEE TSC, Computer Networks, JNCA and etc.
+<br>
+<br>
+Chen also holds an Associate Fellowship of Higher Education Academy.
 <br>
 <br>
 [My University Website](https://www.cst.cam.ac.uk/people/cc2181)
