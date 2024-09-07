@@ -44,6 +44,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 <br>
 
 ## News
+#### Invited to the [ML4ECS 2024 program committee](https://ml4ecs.e-ce.uth.gr/#about)! Welcome to submit your papers!
 #### Our paper "[Predictive alarm models for improving radio access network robustness](https://www.sciencedirect.com/science/article/pii/S0957417424021791)" has been accepted by Expert System with Applications (IF 7.5). 
 #### Our paper "Context-aware Container Orchestration in Serverless Edge Computing" has been accepted by GLOBECOM 24. 
 #### Invited to the IFIP [NCP 2024 program committee](https://www.npc-conference.com/#/npc2024/)! Welcome to submit your papers!
