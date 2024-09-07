@@ -44,11 +44,11 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 <br>
 
 ## News
-#### 2024 Sep Invited to the [ML4ECS 2024 program committee](https://ml4ecs.e-ce.uth.gr/#about)! Welcome to submit your papers!
-#### 2024 Sep Our paper "[Predictive alarm models for improving radio access network robustness](https://www.sciencedirect.com/science/article/pii/S0957417424021791)" has been accepted by Expert System with Applications (IF 7.5). 
-#### 2024 Sep Our paper "Context-aware Container Orchestration in Serverless Edge Computing" has been accepted by GLOBECOM 24. 
-#### 2024 Aug Invited to the IFIP [NCP 2024 program committee](https://www.npc-conference.com/#/npc2024/)! Welcome to submit your papers!
-#### 2024 May Our paper "[Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903)" is accepted by IEEE Transactions on Services Computing (IF 8.1, CCF A).
+#### <em>2024</em> Sep Invited to the [ML4ECS 2024 program committee](https://ml4ecs.e-ce.uth.gr/#about)! Welcome to submit your papers!
+#### <em>2024</em> Sep Our paper "[Predictive alarm models for improving radio access network robustness](https://www.sciencedirect.com/science/article/pii/S0957417424021791)" has been accepted by Expert System with Applications (IF 7.5). 
+#### <em>2024</em> Sep Our paper "Context-aware Container Orchestration in Serverless Edge Computing" has been accepted by GLOBECOM 24. 
+#### <em>2024</em> Aug Invited to the IFIP [NCP 2024 program committee](https://www.npc-conference.com/#/npc2024/)! Welcome to submit your papers!
+#### <em>2024</em> May Our paper "[Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903)" is accepted by IEEE Transactions on Services Computing (IF 8.1, CCF A).
 
 
 <div style="page-break-after: always;"></div>
