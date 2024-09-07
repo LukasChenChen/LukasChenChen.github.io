@@ -36,7 +36,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 ## Research Interest
 <ul>
 <li>Serverless computing</li>
-<li>Edge computing item</li>
+<li>Edge computing</li>
 <li>Resource orchestration</li>
 <li>Distributed computing</li>
 </ul>
