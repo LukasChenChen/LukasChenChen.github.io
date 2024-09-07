@@ -7,7 +7,7 @@ author_profile: true
 <br>
 <br>
 
-# [EDGELESS](https://edgeless-project.eu), European Union’s Horizon Europe research and innovation programme. - 101092950
+# [EDGELESS](https://edgeless-project.eu), European Union’s Horizon Europe research and innovation programme. - 101092950, €5.42 million
 <p>Role: Research Associate <br> </p>
 <p>University of Cambridge <br> </p>
 <p>(Feb 2024 - Present) 

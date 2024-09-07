@@ -27,13 +27,23 @@ Also, Chen is actively serving as a TPC member and reviewer for many conferences
 Chen also holds an Associate Fellowship of Higher Education Academy.
 <br>
 <br>
+To discuss collaboration or research, just send an[email](cc2181@cam.ac.uk).
+<br>
+<br>
 [My University Website](https://www.cst.cam.ac.uk/people/cc2181)
-
-
-
+<br>
+<br>
+## Interest
+<ul>
+<li>Serverless computing</li>
+<li>Edge computing item</li>
+<li>Resource orchestration</li>
+<li>Distributed computing</li>
+</ul>
 
 ## News
-#### Our paper "Context-aware Container Orchestration in Serverless Edge Computing" accepted by GLOBECOM 24. 
+#### Our paper "[Predictive alarm models for improving radio access network robustness](https://www.sciencedirect.com/science/article/pii/S0957417424021791)" has been accepted by Expert System with Applications (IF 7.5). 
+#### Our paper "Context-aware Container Orchestration in Serverless Edge Computing" has been accepted by GLOBECOM 24. 
 #### Invited to the IFIP [NCP 2024 program committee](https://www.npc-conference.com/#/npc2024/)! Welcome to submit your papers!
 #### Our paper "[Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903)" is accepted by IEEE Transactions on Services Computing (IF 8.1, CCF A).
 
