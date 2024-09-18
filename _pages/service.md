@@ -7,11 +7,11 @@ author_profile: true
 
 # Programm Committe
 
-[TPC for Machine Learning for Edge-Cloud Systems Workshop(ML4ECS 2024](https://ml4ecs.e-ce.uth.gr/#program)
+[TPC for Machine Learning for Edge-Cloud Systems Workshop(ML4ECS 2024)](https://ml4ecs.e-ce.uth.gr/#program)
 
 [TPC for 20th IFIP International Conference on Network and Parallel Computing (NPC 2024)](https://www.npc-conference.com/#/npc2024/)
 
-[TPC for 19th International Conference on Mobility, Sensing and Networking (2023](https://ieee-msn.org/2023/progcom.php)
+[TPC for 19th International Conference on Mobility, Sensing and Networking (2023)](https://ieee-msn.org/2023/progcom.php)
 
 [Reviewer for IEEE ICDCS 2024](https://icdcs2024.icdcs.org/)
 
