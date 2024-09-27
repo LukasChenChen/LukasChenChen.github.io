@@ -10,7 +10,7 @@ redirect_from:
 
 Chen is a postdoctoral researcher with the [System Research Group](https://www.cst.cam.ac.uk/research/themes/systems-and-networking), Department of Computer Science and Technology, University of Cambridge.
 In SRG, Chen works on the [EDGELESS project](https://edgeless-project.eu/) with [Professor Richard Mortier](https://www.cst.cam.ac.uk/people/rmm1002), exploring the opportunities for efficient virtualization in small edge devices for serverless computing.
-Chen is also a Research Associate at [St Edmunds College](https://www.st-edmunds.cam.ac.uk/).
+Chen is also a Senior Member at [St Edmunds College](https://www.st-edmunds.cam.ac.uk/).
 <br>
 <br>
 Prior to that, Chen received his PhD in Computer Science from Loughborough Univeristy (LU), UK with a full scholarship.

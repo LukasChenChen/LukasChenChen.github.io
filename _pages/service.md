@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 # St Edmunds College
-PostDoctoral Research Associate
+Senior Member
 
 # Programm Committe
 
