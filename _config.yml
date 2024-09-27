@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "BEng, M.S.c., PhD, AFHEA"
+title                    : "BEng, M.S.c., PhD, AFHEA, St Edmunds College"
 title_separator          : "-"
 name                     : "Chen Chen"
 description              : &description "personal description"
