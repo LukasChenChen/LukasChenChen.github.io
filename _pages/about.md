@@ -17,9 +17,9 @@ Prior to that, Chen received his PhD in Computer Science from Loughborough Unive
 Chen received his BEng from Xidian University, Xi'an, China.
 <br>
 His research interests are broadly in areas of Serverless Computing, Cloud/Edge Computing, Network Resource Orchestration, In-network Computing, 
-Distributed System and IoTs. His latest work focus on resource orchestration in serverless edge computing, aiming to optimize the overall performance for the 
+Distributed System and IoTs. His latest work focuses on resource orchestration in serverless edge computing, aiming to optimize the overall performance for the 
 system, including latency, energy consumption and system cost.
-Chen has extensive experience collaborting with industry such as Siemens, Infineon, EMS-UK, National Physical Lab and many others.
+Chen has extensive experience collaborating with industries such as Siemens, Infineon, EMS-UK, National Physical Lab and many others.
 <br>
 <br>
 Also, Chen is actively serving as a TPC member and reviewer for many conferences and journals such as ICDCS 2024, IFIP NPC 2024, IEEE MSN 2023, IEEE TSC, Computer Networks, JNCA and etc.
