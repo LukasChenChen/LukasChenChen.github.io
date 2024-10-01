@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "BEng, MSc, PhD, AFHEA, St Edmunds College"
+title                    : "BEng, MSc, PhD, AFHEA"
 title_separator          : "-"
 name                     : "Chen Chen"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "chen.jpg"
   name             : "Chen Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate at Department of Computer Science and Technology"
+  bio              : "Research Associate at Department of Computer Science and Technology, Senior Member at St Edmunds College"
   location         : "Cambridge, UK"
   employer         : "University of Cambridge"
   uri              : # URL
