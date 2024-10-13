@@ -40,6 +40,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 <li>Edge computing</li>
 <li>Resource orchestration</li>
 <li>Distributed computing</li>
+<li>Edge AI</li>
 </ul>
 <br>
 <br>
