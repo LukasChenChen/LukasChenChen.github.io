@@ -28,7 +28,9 @@ Senior Member
 
 [Reviewer for Elsevier Computing Networks](https://www.sciencedirect.com/journal/computer-networks)
 
-[Reviewer for Annals of Telecommunications](https://link.springer.com/journal/12243)
+[Reviewer for Springer Annals of Telecommunications](https://link.springer.com/journal/12243)
+
+[Reviewer for Springer Cluster Computing](https://link.springer.com/journal/10586)
 
 # Teaching
 
