@@ -11,7 +11,7 @@ output: html_document
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-Li, L., Herrera, M., Mukherjee, A., Zheng, G., Chen, C., Dhada, M., … Parlikad, A. K. (2024). Predictive alarm models for improving radio access network robustness. Expert Systems with Applications, 259, 125312. doi:10.1016/j.eswa.2024.125312
+- * Li, L., Herrera, M., Mukherjee, A., Zheng, G., Chen, C., Dhada, M., … Parlikad, A. K.* (2024).  **Predictive alarm models for improving radio access network robustness**. Expert Systems with Applications, 259, 125312.[![DOI:10.1016/j.eswa.2024.125312](https://zenodo.org/badge/DOI/10.1016/j.eswa.2024.125312.svg)](https://doi.org/10.1016/j.eswa.2024.125312)
 
 Chen, C., Herrera, M., Zheng, G., Xia, L., Ling, Z., & Wang, J. (2024). Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching. IEEE Transactions on Services Computing.
 
