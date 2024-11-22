@@ -17,7 +17,7 @@ output: html_document
 
 - * Chen, C., Hawkridge, G., Mukherjee, A., Torres, P. J. R., Ling, Z., Santos, C., & McFarlane, D.*  (2023). **Intelligent Low-Cost Monitoring for Smart Digital Manufacturing**. 1st Workshop on Low-Cost Digital Solutions for Industrial Automation.
 
-- * Chen, C., Nagel, L., Cui, L., & Tso, F. P.*  (2023). **S-cache: Function caching for serverless edge computing**. Proceedings of the 6th International Workshop on Edge Systems, Analytics and Networking, 1–6. [![DOI:10.1145/3578354.359286](https://zenodo.org/badge/DOI/10.1145/3578354.359286.svg)](https://doi.org/10.1145/3578354.359286)
+- * Chen, C., Nagel, L., Cui, L., & Tso, F. P.*  (2023). **S-cache: Function caching for serverless edge computing**. Proceedings of the 6th International Workshop on Edge Systems, Analytics and Networking, 1–6. [![DOI:10.1145/3578354.3592865](https://zenodo.org/badge/DOI/10.1145/3578354.3592865.svg)](https://doi.org/10.1145/3578354.3592865)
 
 - * Torres, P. J. R., & Chen, C.*  (2023). **Maintenance on a shoestring: the low-cost journey from zero to condition-based maintenance**.1st Workshop on Low-Cost Digital Solutions for Industrial Automation.
 
@@ -25,4 +25,4 @@ output: html_document
 
 - * Chen, C., Nagel, L., Cui, L., & Tso, F. P.*  (2022). **Distributed federated service chaining: A scalable and cost-aware approach for multi-domain networks**. Computer Networks, 212, 109044. [![DOI:10.1016/j.comnet.2022.109044](https://zenodo.org/badge/DOI/10.1016/j.comnet.2022.109044.svg)](https://doi.org/10.1016/j.comnet.2022.109044)
 
-- * Chen, C., Nagel, L., Cui, L., & Tso, F. P.*  (2021). **Distributed federated service chaining for heterogeneous network environments**. 14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2021), 1–10. [![DOI:10.1145/3468737.34940](https://zenodo.org/badge/DOI/10.1145/3468737.34940.svg)](https://doi.org/10.1145/3468737.34940)
+- * Chen, C., Nagel, L., Cui, L., & Tso, F. P.*  (2021). **Distributed federated service chaining for heterogeneous network environments**. 14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2021), 1–10. [![DOI:10.1145/3468737.34940](https://zenodo.org/badge/DOI/10.1145/3468737.34940.svg)](https://doi.org/10.1145/3468737.34940)(https://doi.org/10.1145/3468737.349409)
