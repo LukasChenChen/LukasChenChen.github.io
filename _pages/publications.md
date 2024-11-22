@@ -25,4 +25,4 @@ output: html_document
 
 * Chen, C., Nagel, L., Cui, L., & Tso, F. P.*  (2022). **Distributed federated service chaining: A scalable and cost-aware approach for multi-domain networks**. Computer Networks, 212, 109044. [![DOI:10.1016/j.comnet.2022.109044](https://zenodo.org/badge/DOI/10.1016/j.comnet.2022.109044.svg)](https://doi.org/10.1016/j.comnet.2022.109044)
 
-* Chen, C., Nagel, L., Cui, L., & Tso, F. P.*  (2021). **Distributed federated service chaining for heterogeneous network environments**. 14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2021), 1–10. [![DOI:10.1145/3468737.349409](https://zenodo.org/badge/DOI/10.1145/3468737.349409.svg)](https://doi.org/10.1145/3468737.349409)
+* Chen, C., Nagel, L., Cui, L., & Tso, F. P.*  (2021). **Distributed federated service chaining for heterogeneous network environments**. 14th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2021), 1–10. [![DOI:10.1145/3468737.3494091](https://zenodo.org/badge/DOI/10.1145/3468737.3494091.svg)](https://doi.org/10.1145/3468737.3494091)
