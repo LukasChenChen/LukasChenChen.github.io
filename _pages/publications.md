@@ -11,7 +11,7 @@ output: html_document
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-* Rivera Torres, P. J., Chen, C., Macías-Aguayo, J., Rodríguez González, S., Prieto Tejedor, J., Llanes Santiago, O., García, C. G., & Kanaan Izquierdo, S. (2024). **A Learning Probabilistic Boolean Network Model of a Smart Grid with Applications in System Maintenance**. Energies, 17(24), 6399. [![DOI:10.3390/en17246399](https://zenodo.org/badge/DOI/10.3390/en17246399)](https://doi.org/10.3390/en17246399)
+* Rivera Torres, P. J., Chen, C., Macías-Aguayo, J., Rodríguez González, S., Prieto Tejedor, J., Llanes Santiago, O., García, C. G., & Kanaan Izquierdo, S. (2024). **A Learning Probabilistic Boolean Network Model of a Smart Grid with Applications in System Maintenance**. Energies, 17(24), 6399. [![DOI:10.3390/en17246399](https://zenodo.org/badge/DOI/10.3390/en17246399.svg)](https://doi.org/10.3390/en17246399)
 
 * Li, L., Herrera, M., Mukherjee, A., Zheng, G., Chen, C., Dhada, M., … Parlikad, A. K.* (2024).  **Predictive alarm models for improving radio access network robustness**. Expert Systems with Applications, 259, 125312.[![DOI:10.1016/j.eswa.2024.125312](https://zenodo.org/badge/DOI/10.1016/j.eswa.2024.125312.svg)](https://doi.org/10.1016/j.eswa.2024.125312)
 
