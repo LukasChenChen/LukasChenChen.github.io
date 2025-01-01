@@ -32,6 +32,8 @@ Senior Member
 
 [Reviewer for Springer Cluster Computing](https://link.springer.com/journal/10586)
 
+[Reviewer for IEEE Internet of Things Journal ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
+
 # Teaching
 
  Guest Lecturer at Loughborough University for Cloud Computing
