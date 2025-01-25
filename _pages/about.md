@@ -46,7 +46,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 <br>
 
 ## News
-#### <em>2024</em> Jan New paper "[Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning](https://arxiv.org/abs/2501.12783)" has been accepted by ICC 2025.
+#### <em>2025</em> Jan New paper "[Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning](https://arxiv.org/abs/2501.12783)" has been accepted by ICC 2025.
 #### <em>2024</em> Dec Invited to give a keynote talk at 2024 International Conference on Communication Networks and Software Engineering（ICCNSE 2024).
 #### <em>2024</em> Dec New paper "[A Learning Probabilistic Boolean Network Model of a Smart Grid with Applications in System Maintenance](https://www.mdpi.com/1996-1073/17/24/6399)".
 #### <em>2024</em> Nov [Special Issue](https://www.techscience.com/cmc/special_detail/vehicular_Ad_Hoc) online, welcome to submit!
