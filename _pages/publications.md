@@ -11,7 +11,7 @@ output: html_document
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-*Guan, P., Chen, C., Chen, Z., Cai, L., Hao, X., & Taherkordi, A.* (2024). **[Context-aware Container Orchestration in Serverless Edge Computing.](https://ieeexplore.ieee.org/document/10901781)** In GLOBECOM 2024 (pp. 1041-1046).
+* Guan, P., Chen, C., Chen, Z., Cai, L., Hao, X., & Taherkordi, A.* (2024). **[Context-aware Container Orchestration in Serverless Edge Computing.](https://ieeexplore.ieee.org/document/10901781)** In GLOBECOM 2024 (pp. 1041-1046).
 
 * Rivera Torres, P. J., Chen, C., Macías-Aguayo, J., Rodríguez González, S., Prieto Tejedor, J., Llanes Santiago, O., García, C. G., & Kanaan Izquierdo, S. (2024). **A Learning Probabilistic Boolean Network Model of a Smart Grid with Applications in System Maintenance**. Energies, 17(24), 6399. [![DOI:10.3390/en17246399](https://zenodo.org/badge/DOI/10.3390/en17246399.svg)](https://doi.org/10.3390/en17246399)
 
