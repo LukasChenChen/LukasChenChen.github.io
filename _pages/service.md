@@ -18,7 +18,8 @@ Senior Member
 [Reviewer for IEEE ICDCS 2024](https://icdcs2024.icdcs.org/)
 
 # Journal
-[Guest Editor for Computers, Materials & Continua (CMC) ](https://www.techscience.com/cmc/special_detail/vehicular_Ad_Hoc)
+
+[Reviewer for IEEE Transactions on Consumer Electronics (IEEE TCE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
 
 [Reviewer for IEEE Transactions on Services Computing (IEEE TSC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)
 
@@ -35,6 +36,8 @@ Senior Member
 [Reviewer for IEEE Internet of Things Journal ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
 
 [Reviewer for Journal of Supercomputing]
+
+[Guest Editor for Computers, Materials & Continua (CMC) ](https://www.techscience.com/cmc/special_detail/vehicular_Ad_Hoc)
 
 # Teaching
 
