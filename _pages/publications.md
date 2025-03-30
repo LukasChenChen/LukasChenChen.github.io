@@ -10,6 +10,7 @@ output: html_document
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+*Chen Chen and Peiyuan Guan and Ziru Chen and Amir Taherkordi and Fen Hou and Lin X. Cai* (2025) **Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning**. IEEE ICC 2025.
 
 * Guan, P., Chen, C., Chen, Z., Cai, L., Hao, X., & Taherkordi, A.* (2024). **[Context-aware Container Orchestration in Serverless Edge Computing.](https://ieeexplore.ieee.org/document/10901781)** In GLOBECOM 2024 (pp. 1041-1046).
 
