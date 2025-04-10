@@ -47,7 +47,8 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 <br>
 
 ## News
-#### <em>2025</em> April A short paper accepted by ICDCS 2025.
+#### <em>2025</em> April  Two papers accepted by IEEE ISCC 2025!
+#### <em>2025</em> April A short paper accepted by IEEE ICDCS 2025!
 #### <em>2025</em> Jan New paper "[Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning](https://arxiv.org/abs/2501.12783)" has been accepted by ICC 2025.
 #### <em>2024</em> Dec Invited to give a keynote talk at 2024 International Conference on Communication Networks and Software Engineering（ICCNSE 2024).
 #### <em>2024</em> Dec New paper "[A Learning Probabilistic Boolean Network Model of a Smart Grid with Applications in System Maintenance](https://www.mdpi.com/1996-1073/17/24/6399)".
