@@ -10,6 +10,13 @@ output: html_document
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+
+* Chen, Chen; Guan, Peiyuan; Li, Luning; Torres, Pedro Juan Rivera; Kolcun, Roman; Mortier, Richard (2025)*. **EFaaS: Energy-efficient Function Orchestration in Serverless Edge Computing**. IEEE ICDCS 2025.
+
+* Jia Z, Chen C, Guan L, Woodward J* **SLO-Targeted Congestion Control with Deep Reinforcement Learning (2025)**. IEEE ISCC 2025.
+
+* Chen Chen, Emanuele Carlini, Richard Mortier (2025)*  **Dike: Deep Reinforcement Learning For Function Scheduling in SLO-targeted Serverless Edge Computing**. IEEE ISCC 2025.
+
 * Pedro Juan Rivera Torres, Chen Chen, Sara Rodríguez González, Orestes Llanes Santiago (2025)* **[A learning Probabilistic Boolean Network Model of a Manufacturing Process with applications to system asset maintenance](https://www.mdpi.com/1099-4300/27/5/463)**. MDPI Entropy
 
 * Chen Chen and Peiyuan Guan and Ziru Chen and Amir Taherkordi and Fen Hou and Lin X. Cai* (2025) **Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning**. IEEE ICC 2025.
