@@ -11,7 +11,9 @@ output: html_document
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-* Chen, Chen; Guan, Peiyuan; Li, Luning; Torres, Pedro Juan Rivera; Kolcun, Roman; Mortier, Richard (2025)*. **EFaaS: Energy-efficient Function Orchestration in Serverless Edge Computing**. IEEE ICDCS 2025.
+* Li Y, You F, Zhang L, Jing Q, Chen C* **Reimagining food delivery: Designing towards a fairer platform**, CumulusNantes25: Ethical Leadership: A New Frontier for Design.
+
+* Chen Chen;Peiyuan Guan; Luning Li; Pedro Juan Rivera Torres; Roman Kolcun; Richard Mortier (2025)*. **EFaaS: Energy-efficient Function Orchestration in Serverless Edge Computing**. IEEE ICDCS 2025.
 
 * Jia Z, Chen C, Guan L, Woodward J* **SLO-Targeted Congestion Control with Deep Reinforcement Learning (2025)**. IEEE ISCC 2025.
 

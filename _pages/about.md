@@ -48,6 +48,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 <br>
 
 ## News
+#### <em>2025</em> April Inited to serve as TPC for [IFIP NPC 2025](https://npc-2025.github.io/index.html)!
 #### <em>2025</em> April  [A Learning Probabilistic Boolean Network Model of a Manufacturing Process with Applications in System Asset Maintenance](https://www.mdpi.com/1099-4300/27/5/463) published by MDPI Entropy.
 #### <em>2025</em> April  Two papers accepted by IEEE ISCC 2025!
 #### <em>2025</em> April A short paper accepted by IEEE ICDCS 2025!
