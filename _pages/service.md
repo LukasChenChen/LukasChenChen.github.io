@@ -11,6 +11,8 @@ Reviewer for UKRI Funding
 
 # Programm Committe
 
+[TPC for 2026 IEEE Consumer Communications & Networking Conference (CCNC 2026)](https://ccnc2026.ieee-ccnc.org/)
+
 [TPC for 21th IFIP International Conference on Network and Parallel Computing (NPC 2025)](https://www.npc-conference.com/#/npc2025/)
 
 [TPC for Machine Learning for Edge-Cloud Systems Workshop(ML4ECS 2024)](https://ml4ecs.e-ce.uth.gr/#program)
