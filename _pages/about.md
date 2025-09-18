@@ -13,7 +13,7 @@ In SRG, Chen works on the [EDGELESS project](https://edgeless-project.eu/) with 
 Chen is also a Senior Member at [St Edmunds College](https://www.st-edmunds.cam.ac.uk/).
 <br>
 <br>
-Prior to that, Chen received his PhD in Computer Science from Loughborough Univeristy (LU), UK with a full scholarship.
+Prior to that, Chen received his PhD in Computer Science from Loughborough Univeristy (LU), with [Prof. Posco Tso](https://www.lboro.ac.uk/departments/compsci/staff/posco-tso/).
 Chen received his BEng from Xidian University, Xi'an, China.
 <br>
 His research interests are broadly in areas of Serverless Computing, Cloud/Edge Computing, Network Resource Orchestration, In-network Computing, 
