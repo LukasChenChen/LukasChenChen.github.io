@@ -17,7 +17,7 @@ output: html_document
 
 * Jia Z, Chen C, Guan L, Woodward J* **SLO-Targeted Congestion Control with Deep Reinforcement Learning (2025)**. IEEE ISCC 2025.
 
-* Chen Chen, Emanuele Carlini, Richard Mortier (2025)*  **Dike: Deep Reinforcement Learning For Function Scheduling in SLO-targeted Serverless Edge Computing**. IEEE ISCC 2025.
+* Chen Chen, Emanuele Carlini, Richard Mortier* (2025)  **[Dike: Deep Reinforcement Learning For Function Scheduling in SLO-targeted Serverless Edge Computing](files/dike.pdf)**. IEEE ISCC 2025.
 
 * Pedro Juan Rivera Torres, Chen Chen, Sara Rodríguez González, Orestes Llanes Santiago (2025)* **[A learning Probabilistic Boolean Network Model of a Manufacturing Process with applications to system asset maintenance](https://www.mdpi.com/1099-4300/27/5/463)**. MDPI Entropy
 
