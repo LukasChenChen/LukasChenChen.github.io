@@ -21,7 +21,7 @@ output: html_document
 
 * Pedro Juan Rivera Torres, Chen Chen, Sara Rodríguez González, Orestes Llanes Santiago (2025)* **[A learning Probabilistic Boolean Network Model of a Manufacturing Process with applications to system asset maintenance](https://www.mdpi.com/1099-4300/27/5/463)**. MDPI Entropy
 
-* Chen Chen and Peiyuan Guan and Ziru Chen and Amir Taherkordi and Fen Hou and Lin X. Cai* (2025) **[Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11162063)**. IEEE ICC 2025.
+* Chen Chen and Peiyuan Guan and Ziru Chen and Amir Taherkordi and Fen Hou and Lin X. Cai* (2025) **[Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/11162063)**. ICC 2025 - IEEE International Conference on Communications, Montreal, QC, Canada, 2025, pp. 5718-5723.
 
 * Guan, P., Chen, C., Chen, Z., Cai, L., Hao, X., & Taherkordi, A.* (2024). **[Context-aware Container Orchestration in Serverless Edge Computing.](https://ieeexplore.ieee.org/document/10901781)** In GLOBECOM 2024 (pp. 1041-1046).
 

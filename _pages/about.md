@@ -47,6 +47,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 <br>
 <br>
 
+
 ## News
 #### <em>2025</em> Sep Invited to serve as TPC for [IEEE CCNC 2026](https://ccnc2026.ieee-ccnc.org/)!
 #### <em>2025</em> Aug Invited to serve as TPC for [IFIP NPC 2025](https://npc-2025.github.io/index.html)!
@@ -64,6 +65,14 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 #### <em>2024</em> Aug Invited to the IFIP [NCP 2024 program committee](https://www.npc-conference.com/#/npc2024/)! Welcome to submit your papers!
 #### <em>2024</em> May Our paper "[Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903)" is accepted by IEEE Transactions on Services Computing (IF 8.1, CCF A).
 
+
+
+## Contact Info
+William Gates Building, 
+Department of Computer Science and Technology
+15 JJ Thomson Ave, Cambridge CB3 0FD
+
+Email: cc2181 (at) cam.ac.uk
 
 <div style="page-break-after: always;"></div>
 <br />
