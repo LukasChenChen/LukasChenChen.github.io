@@ -24,6 +24,7 @@ Reviewer for UKRI Funding
 [Reviewer for IEEE ICDCS 2024](https://icdcs2024.icdcs.org/)
 
 # Journal
+[Reviewr for IEEE Transactions on Parallel and Distributed Systems]
 
 [Reviewer for IEEE Transactions on Consumer Electronics (IEEE TCE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
 
@@ -35,15 +36,6 @@ Reviewer for UKRI Funding
 
 [Reviewer for Elsevier Computing Networks](https://www.sciencedirect.com/journal/computer-networks)
 
-[Reviewer for Springer Annals of Telecommunications](https://link.springer.com/journal/12243)
-
-[Reviewer for Springer Cluster Computing](https://link.springer.com/journal/10586)
-
-[Reviewer for IEEE Internet of Things Journal ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
-
-[Reviewer for Journal of Supercomputing]
-
-[Guest Editor for Computers, Materials & Continua (CMC) ](https://www.techscience.com/cmc/special_detail/vehicular_Ad_Hoc)
 
 # Teaching
 
