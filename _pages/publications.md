@@ -13,7 +13,7 @@ output: html_document
 
 * Li Y, You F, Zhang L, Jing Q, Chen C* **Reimagining food delivery: Designing towards a fairer platform**, CumulusNantes25: Ethical Leadership: A New Frontier for Design.
 
-* Chen Chen;Peiyuan Guan; Luning Li; Pedro Juan Rivera Torres; Roman Kolcun; Richard Mortier (2025)*. **[EFaaS: Energy-efficient Function Orchestration in Serverless Edge Computing](10.1109/ICDCSW63273.2025.00024)**. IEEE ICDCS 2025.
+* Chen Chen;Peiyuan Guan; Luning Li; Pedro Juan Rivera Torres; Roman Kolcun; Richard Mortier (2025)*. **[EFaaS: Energy-efficient Function Orchestration in Serverless Edge Computing](https://ieeexplore.ieee.org/document/11262634)**. IEEE ICDCS 2025.
 
 * Jia Z, Chen C, Guan L, Woodward J* **SLO-Targeted Congestion Control with Deep Reinforcement Learning (2025)**. IEEE ISCC 2025.
 
