@@ -24,11 +24,11 @@ author:
   avatar           : "chen.jpg"
   name             : "Chen Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer at Nottingham Trent University, Senior Member at St Edmunds College"
-  location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  bio              : "Lecturer at Nottingham Trent University, Visiting Researcher at University of Cambridge, Senior Member at St Edmunds College"
+  location         : "Nottingham, UK"
+  employer         : "Nottingham Trent University"
   uri              : # URL
-  email            : " cc2181@cam.ac.uk" 
+  email            : " chen.chen04@ntu.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
