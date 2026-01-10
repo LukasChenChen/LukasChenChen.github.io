@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-Chen is a postdoctoral researcher with the [System Research Group](https://www.cst.cam.ac.uk/research/themes/systems-and-networking), Department of Computer Science and Technology, University of Cambridge.
-In SRG, Chen works on the [EDGELESS project](https://edgeless-project.eu/) with [Professor Richard Mortier](https://www.cst.cam.ac.uk/people/rmm1002), exploring the opportunities for efficient virtualization in small edge devices for serverless computing.
+Chen is a Lecturer (Assistant Professor) in Computer Science at Nottingham Trent University since 2025.
+Between 2022 to 2025, he was a postdoctoral researcher with the [System Research Group](https://www.cst.cam.ac.uk/research/themes/systems-and-networking), Department of Computer Science and Technology, University of Cambridge.
 Chen is also a Senior Member at [St Edmunds College](https://www.st-edmunds.cam.ac.uk/).
 <br>
 <br>
@@ -37,6 +37,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 <br>
 ## Research Interest
 <ul>
+<li>LLM Scheduling</li>
 <li>Serverless computing</li>
 <li>Edge AI</li>
 <li>Systems for AI</li>
@@ -49,6 +50,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 
 
 ## News
+#### <em>2025</em> I'm actively recruiting PhD students, drop me an email if interested.
 #### <em>2025</em> Sep Invited to serve as TPC for [IEEE CCNC 2026](https://ccnc2026.ieee-ccnc.org/)!
 #### <em>2025</em> Aug Invited to serve as TPC for [IFIP NPC 2025](https://npc-2025.github.io/index.html)!
 #### <em>2025</em> April  [A Learning Probabilistic Boolean Network Model of a Manufacturing Process with Applications in System Asset Maintenance](https://www.mdpi.com/1099-4300/27/5/463) published by MDPI Entropy.
