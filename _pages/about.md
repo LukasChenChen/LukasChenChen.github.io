@@ -70,11 +70,11 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 
 
 ## Contact Info
-William Gates Building, 
-Department of Computer Science and Technology
-15 JJ Thomson Ave, Cambridge CB3 0FD
+Mary Ann Evans Building, 
+Department of Computer Science,
+Clifton Campus, College Dr, Clifton, Nottingham NG11 8NS
 
-Email: cc2181 (at) cam.ac.uk
+Email: chen.chen04 (at) ntu.ac.uk
 
 <div style="page-break-after: always;"></div>
 <br />
