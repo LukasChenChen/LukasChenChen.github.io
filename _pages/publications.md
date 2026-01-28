@@ -11,6 +11,8 @@ output: html_document
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+*Claudio Cicconetti, Emanuele Carlini, Chen Chen, Roman Kolcun, Richard Mortier,* **[Design and implementation of a platform for stateful agents at the edge](https://doi.org/10.1016/j.pmcj.2026.102175)**, Pervasive and Mobile Computing.
+
 * Li Y, You F, Zhang L, Jing Q, Chen C* **Reimagining food delivery: Designing towards a fairer platform**, CumulusNantes25: Ethical Leadership: A New Frontier for Design.
 
 * Chen Chen;Peiyuan Guan; Luning Li; Pedro Juan Rivera Torres; Roman Kolcun; Richard Mortier (2025)*. **[EFaaS: Energy-efficient Function Orchestration in Serverless Edge Computing](https://ieeexplore.ieee.org/document/11262634)**. IEEE ICDCS 2025.

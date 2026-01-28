@@ -13,8 +13,8 @@ Between 2022 to 2025, he was a postdoctoral researcher with the [System Research
 Chen is also a Senior Member at [St Edmunds College](https://www.st-edmunds.cam.ac.uk/).
 <br>
 <br>
-Prior to that, Chen received his PhD in Computer Science from Loughborough Univeristy (LU).
-Chen received his BEng from Xidian University, Xi'an, China.
+Prior to that, Chen received his PhD in Computer Science from [Loughborough Univeristy](https://www.lboro.ac.uk/) (LU).
+Chen received his BEng from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.
 <br>
 His research interests are broadly in areas of Serverless Computing, Cloud/Edge Computing, Network Resource Orchestration, In-network Computing, 
 Distributed System and IoTs. His latest work focuses on resource orchestration in serverless edge computing, aiming to optimize the overall performance for the 
@@ -50,6 +50,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 
 
 ## News
+#### <em>2025</em> Jan 2026 [New paper](https://doi.org/10.1016/j.pmcj.2026.102175) about stateful agents at the edge accepted by Pervasive and Mobile Computing!
 #### <em>2025</em> I'm actively recruiting PhD students, drop me an email if interested.
 #### <em>2025</em> Sep Invited to serve as TPC for [IEEE CCNC 2026](https://ccnc2026.ieee-ccnc.org/)!
 #### <em>2025</em> Aug Invited to serve as TPC for [IFIP NPC 2025](https://npc-2025.github.io/index.html)!
