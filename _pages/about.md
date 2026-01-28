@@ -50,7 +50,7 @@ To discuss collaboration or research, just send an [email](mailto:cc2181@cam.ac.
 
 
 ## News
-#### <em>2025</em> Jan 2026 [New paper](https://doi.org/10.1016/j.pmcj.2026.102175) about stateful agents at the edge accepted by Pervasive and Mobile Computing!
+#### <em>2026</em> Jan [New paper](https://doi.org/10.1016/j.pmcj.2026.102175) about stateful agents at the edge accepted by Pervasive and Mobile Computing!
 #### <em>2025</em> I'm actively recruiting PhD students, drop me an email if interested.
 #### <em>2025</em> Sep Invited to serve as TPC for [IEEE CCNC 2026](https://ccnc2026.ieee-ccnc.org/)!
 #### <em>2025</em> Aug Invited to serve as TPC for [IFIP NPC 2025](https://npc-2025.github.io/index.html)!
