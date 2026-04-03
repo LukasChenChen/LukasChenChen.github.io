@@ -9,7 +9,7 @@ redirect_from:
 
 
 Chen is a Lecturer (Assistant Professor) in Computer Science at Nottingham Trent University since 2025.
-Between 2022 to 2025, he was a postdoctoral researcher with the [System Research Group](https://www.cst.cam.ac.uk/research/themes/systems-and-networking), Department of Computer Science and Technology, University of Cambridge.
+Between 2022 to 2025, he was a postdoctoral researcher with the [System Research Group](https://www.cst.cam.ac.uk/research/themes/systems-and-networking) advised by Prof. [Richard Mortier](https://www.cst.cam.ac.uk/people/rmm1002), Department of Computer Science and Technology, University of Cambridge.
 Chen is also a Senior Member at [St Edmunds College](https://www.st-edmunds.cam.ac.uk/).
 <br>
 <br>
