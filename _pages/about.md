@@ -56,6 +56,8 @@ Please email me your CV and transcripts.
 
 
 ## News
+#### <em>2026</em> April I'm giving a talk at tenth Annual [UK System Research Workshop] (https://uksystems.org/workshop/2026/)!
+#### <em>2026</em> April Three papers accepted at IEEE ISCC 2026!
 #### <em>2026</em> Jan  [New paper](https://link.springer.com/chapter/10.1007/978-3-031-96157-1_51) published in Lecture Notes in Networks and Systems 2026.
 #### <em>2026</em> Jan [Design and implementation of a platform for stateful agents at the edge](https://doi.org/10.1016/j.pmcj.2026.102175) published by Pervasive and Mobile Computing!
 #### <em>2025</em> I'm actively recruiting PhD students, drop me an email if interested.
@@ -65,15 +67,6 @@ Please email me your CV and transcripts.
 #### <em>2025</em> April  Two papers accepted by IEEE ISCC 2025!
 #### <em>2025</em> April A short paper accepted by IEEE ICDCS 2025!
 #### <em>2025</em> Jan New paper "[Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning](https://arxiv.org/abs/2501.12783)" has been accepted by ICC 2025.
-#### <em>2024</em> Dec Invited to give a keynote talk at 2024 International Conference on Communication Networks and Software Engineering（ICCNSE 2024).
-#### <em>2024</em> Dec New paper "[A Learning Probabilistic Boolean Network Model of a Smart Grid with Applications in System Maintenance](https://www.mdpi.com/1996-1073/17/24/6399)".
-#### <em>2024</em> Nov [Special Issue](https://www.techscience.com/cmc/special_detail/vehicular_Ad_Hoc) online, welcome to submit!
-#### <em>2024</em> Sep I am elected as Senior Member at [St Edmunds College](https://www.st-edmunds.cam.ac.uk/)!
-#### <em>2024</em> Sep Invited to the [ML4ECS 2024 program committee](https://ml4ecs.e-ce.uth.gr/#about)! Welcome to submit your papers!
-#### <em>2024</em> Sep Our paper "[Predictive alarm models for improving radio access network robustness](https://www.sciencedirect.com/science/article/pii/S0957417424021791)" has been accepted by Expert System with Applications (IF 7.5). 
-#### <em>2024</em> Sep Our paper "[Context-aware Container Orchestration in Serverless Edge Computing](https://ieeexplore.ieee.org/document/10901781)" has been accepted by GLOBECOM 24. 
-#### <em>2024</em> Aug Invited to the IFIP [NCP 2024 program committee](https://www.npc-conference.com/#/npc2024/)! Welcome to submit your papers!
-#### <em>2024</em> May Our paper "[Cross-Edge Orchestration of Serverless Functions with Probabilistic Caching](https://ieeexplore.ieee.org/document/10528903)" is accepted by IEEE Transactions on Services Computing (IF 8.1, CCF A).
 
 
 

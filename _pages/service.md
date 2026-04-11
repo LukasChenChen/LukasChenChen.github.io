@@ -10,6 +10,7 @@ Senior Member
 Reviewer for UKRI Funding
 
 # Programm Committe
+[TPC for 2026 31st IEEE Symposium on Computers and Communications (ISCC)](https://ieee-iscc.computer.org/2026/)
 
 [TPC for 2026 IEEE Consumer Communications & Networking Conference (CCNC 2026)](https://ccnc2026.ieee-ccnc.org/)
 
