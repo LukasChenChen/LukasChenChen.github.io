@@ -56,7 +56,7 @@ Please email me your CV and transcripts.
 
 
 ## News
-#### <em>2026</em> April I'm giving a talk at tenth Annual [UK System Research Workshop] (https://uksystems.org/workshop/2026/)!
+#### <em>2026</em> April I'm giving a talk at tenth Annual [UK System Research Workshop](https://uksystems.org/workshop/2026/)!
 #### <em>2026</em> April Three papers accepted at IEEE ISCC 2026!
 #### <em>2026</em> Jan  [New paper](https://link.springer.com/chapter/10.1007/978-3-031-96157-1_51) published in Lecture Notes in Networks and Systems 2026.
 #### <em>2026</em> Jan [Design and implementation of a platform for stateful agents at the edge](https://doi.org/10.1016/j.pmcj.2026.102175) published by Pervasive and Mobile Computing!
