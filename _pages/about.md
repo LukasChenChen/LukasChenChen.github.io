@@ -56,6 +56,8 @@ Please email me your CV and transcripts.
 
 
 ## News
+#### <em>2026</em> April I received the QR funding from NTU!
+#### <em>2026</em> April [FaasOrc](https://doi.org/10.1016/j.jnca.2026.104490) accepted by Journal of Network and Computer Applications (IF 8.0).
 #### <em>2026</em> April I'm giving a talk at tenth Annual [UK System Research Workshop](https://uksystems.org/workshop/2026/)!
 #### <em>2026</em> April Three papers accepted at IEEE ISCC 2026!
 #### <em>2026</em> Jan  [New paper](https://link.springer.com/chapter/10.1007/978-3-031-96157-1_51) published in Lecture Notes in Networks and Systems 2026.
