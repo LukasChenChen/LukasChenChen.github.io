@@ -56,6 +56,7 @@ Please email me your CV and transcripts.
 
 
 ## News
+#### <em>2026</em> April Our paper "Incentivizing and Orchestrating Cloud-Edge LLM Collaborative Inference of Speculative Decoding" accepted by ICDCS 2026! (Acceptance rate 18.59%)
 #### <em>2026</em> April I received the QR funding from NTU!
 #### <em>2026</em> April [FaasOrc](https://doi.org/10.1016/j.jnca.2026.104490) accepted by Journal of Network and Computer Applications (IF 8.0).
 #### <em>2026</em> April I'm giving a talk at tenth Annual [UK System Research Workshop](https://uksystems.org/workshop/2026/)!
