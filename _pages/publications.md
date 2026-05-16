@@ -11,11 +11,11 @@ output: html_document
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-#### * <strong>Chen Chen</strong>, Lars Nagel, Lin Cui, Weijia Jia, Fung Po Tso*, **[FaasOrc: A bi-level function scheduling and caching framework for serverless edge computing](https://doi.org/10.1016/j.jnca.2026.104490)**, Journal of Network and Computer Applications, 2026
+- <strong>Chen Chen</strong>, Lars Nagel, Lin Cui, Weijia Jia, Fung Po Tso, **[FaasOrc: A bi-level function scheduling and caching framework for serverless edge computing](https://doi.org/10.1016/j.jnca.2026.104490)**, Journal of Network and Computer Applications, 2026
 
-* Pedro Juan Rivera Torres*, Chen Chen, and et.al, **[A Smart-Grid Device Model that Learns by Probabilistic Boolean Network](https://link.springer.com/chapter/10.1007/978-3-031-96157-1_51)**,  Lecture Notes in Networks and Systems, 2026
+- Pedro Juan Rivera Torres, <strong>Chen Chen</strong>, and et.al, **[A Smart-Grid Device Model that Learns by Probabilistic Boolean Network](https://link.springer.com/chapter/10.1007/978-3-031-96157-1_51)**,  Lecture Notes in Networks and Systems, 2026
 
-* Claudio Cicconetti*, Emanuele Carlini, Chen Chen, Roman Kolcun, Richard Mortier **[Design and implementation of a platform for stateful agents at the edge](https://doi.org/10.1016/j.pmcj.2026.102175)**, Pervasive and Mobile Computing, 2026.
+- Claudio Cicconetti, Emanuele Carlini, Chen Chen, Roman Kolcun, Richard Mortier **[Design and implementation of a platform for stateful agents at the edge](https://doi.org/10.1016/j.pmcj.2026.102175)**, Pervasive and Mobile Computing, 2026.
 
 * Li Y, You F, Zhang L, Jing Q, Chen C* **Reimagining food delivery: Designing towards a fairer platform**, CumulusNantes25: Ethical Leadership: A New Frontier for Design.
 
