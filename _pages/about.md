@@ -16,8 +16,7 @@ Chen is also a Senior Member at [St Edmunds College](https://www.st-edmunds.cam.
 Prior to that, Chen received his PhD in Computer Science from [Loughborough Univeristy](https://www.lboro.ac.uk/) (LU).
 Chen received his BEng from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China.
 <br>
-His research interests are broadly in areas of Serverless Computing, Cloud/Edge Computing, Network Resource Orchestration, In-network Computing, 
-Distributed System and IoTs. His latest work focuses on resource orchestration in serverless edge computing, aiming to optimize the overall performance for the 
+His research interests are broadly in areas of System for AI, Distributed Systems, Serverless Computing, Cloud/Edge Computing, Network Resource Orchestration, In-network Computing, and IoTs. His latest work focuses on resource orchestration in serverless edge computing, aiming to optimize the overall performance for the 
 system, including latency, energy consumption and system cost.
 Chen has extensive experience collaborating with industries such as Siemens, Infineon, EMS-UK, National Physical Lab and many others.
 Chen's research is mostly funded by UKRI and EU Horizon.
