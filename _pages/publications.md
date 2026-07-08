@@ -11,7 +11,7 @@ output: html_document
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- Zihan Jia, <strong>Chen Chen</strong>, Alia Asheralieva, Lin Guan, and Ziren Xiao, **[HAN: Adaptive DRL-based Congestion Control via Model Uncertainty](https://ieeexplore.ieee.org/document/11599876)**, IEEE Transactions on Network and Service Management, 2026
+- Zihan Jia, <strong>Chen Chen</strong>, Alia Asheralieva, Lin Guan, and Ziren Xiao, **[HAN: Adaptive DRL-based Congestion Control via Model Uncertainty](https://ieeexplore.ieee.org/document/11599876) **, IEEE Transactions on Network and Service Management, 2026
 
 - <strong>Chen Chen</strong>, Lars Nagel, Lin Cui, Weijia Jia, Fung Po Tso, **[FaasOrc: A bi-level function scheduling and caching framework for serverless edge computing](https://doi.org/10.1016/j.jnca.2026.104490)**, Journal of Network and Computer Applications, 2026
 
