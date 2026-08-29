@@ -55,8 +55,9 @@ Please email me your CV and transcripts.
 
 
 ## News
+#### <em>2026</em> Aug [New paper](https://doi.org/10.1016/j.comcom.2026.108658) accepted at Computer Communications!
 #### <em>2026</em> July New paper [HAN: Adaptive DRL-based Congestion Control via Model Uncertainty](https://ieeexplore.ieee.org/document/11599876) accepted by IEEE TNSM (IF 5.7)!
-#### <em>2026</em> April Our paper "Incentivizing and Orchestrating Cloud-Edge LLM Collaborative Inference of Speculative Decoding" accepted by ICDCS 2026! (Acceptance rate 18.59%)
+#### <em>2026</em> April Our paper [Incentivizing and Orchestrating Cloud-Edge LLM Collaborative Inference of Speculative Decoding](https://ieeexplore.ieee.org/abstract/document/11619155) accepted by ICDCS 2026! (Acceptance rate 18.59%)
 #### <em>2026</em> April I received the QR funding from NTU!
 #### <em>2026</em> April [FaasOrc](https://doi.org/10.1016/j.jnca.2026.104490) accepted by Journal of Network and Computer Applications (IF 8.0).
 #### <em>2026</em> April I'm giving a talk at tenth Annual [UK System Research Workshop](https://uksystems.org/workshop/2026/)!
