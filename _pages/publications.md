@@ -11,9 +11,9 @@ output: html_document
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- <strong>Chen Chen<strong>, Peiyuan Guan, Luning Li, Pedro Juan Rivera Torres, Roman Kolcun, Richard Mortier, **[EcoRun: Energy-aware container scheduling and resource allocation in serverless edge computing](https://doi.org/10.1016/j.comcom.2026.108658)**, Computer Communications, 2026.
+- <strong>Chen Chen</strong>, Peiyuan Guan, Luning Li, Pedro Juan Rivera Torres, Roman Kolcun, Richard Mortier, **[EcoRun: Energy-aware container scheduling and resource allocation in serverless edge computing](https://doi.org/10.1016/j.comcom.2026.108658)**, Computer Communications, 2026.
 
-- M. Ji, L. Jiao, B. Tang, Z. Qu, <strong>C. Chen<strong> and B. Ye, **[Incentivizing and Orchestrating Cloud-Edge LLM Speculative Decoding via Auctions](https://ieeexplore.ieee.org/document/11619155)**, 2026 IEEE 46th International Conference on Distributed Computing Systems (ICDCS), 2026. 
+- M. Ji, L. Jiao, B. Tang, Z. Qu, <strong>C. Chen</strong> and B. Ye, **[Incentivizing and Orchestrating Cloud-Edge LLM Speculative Decoding via Auctions](https://ieeexplore.ieee.org/document/11619155)**, 2026 IEEE 46th International Conference on Distributed Computing Systems (ICDCS), 2026. 
 
 - Zihan Jia, <strong>Chen Chen</strong>, Alia Asheralieva, Lin Guan, and Ziren Xiao, **[HAN: Adaptive DRL-based Congestion Control via Model Uncertainty](https://ieeexplore.ieee.org/document/11599876)**, IEEE Transactions on Network and Service Management, 2026
 
