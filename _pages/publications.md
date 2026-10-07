@@ -10,6 +10,7 @@ output: html_document
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
+- <strong>Chen Chen</strong>, Lei Jiao, Richard Mortier, **[ALPS: An Application-Aware, Length-Predictive Scheduler for Efficient LLM Inference at Edge](https://ieeexplore.ieee.org/document/11723265)**, IEEE Transactions on Parallel and Distributed Systems, 2026
 
 - <strong>Chen Chen</strong>, Peiyuan Guan, Luning Li, Pedro Juan Rivera Torres, Roman Kolcun, Richard Mortier, **[EcoRun: Energy-aware container scheduling and resource allocation in serverless edge computing](https://doi.org/10.1016/j.comcom.2026.108658)**, Computer Communications, 2026.
 
