@@ -5,7 +5,7 @@ permalink: /resources/
 author_profile: true
 ---
 
-
+### [Making the Right Moves A Practical Guide to Scientific Management](https://www.med.upenn.edu/oaa/assets/user-content/documents/HHILab%20Mamangement.pdf)
 
 ### [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 
