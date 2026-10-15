@@ -10,6 +10,10 @@ Senior Member
 Reviewer for UKRI Funding
 
 # Programm Committe
+[Chair for ContinuumOPS-NCA 2026](https://mmw_unibo.gitlab.io/continuumops/)s
+
+[TPC for 2027 IEEE Consumer Communications & Networking Conference (CCNC 2026)](https://ccnc2027.ieee-ccnc.org/)
+
 [TPC for 2026 31st IEEE Symposium on Computers and Communications (ISCC)](https://ieee-iscc.computer.org/2026/)
 
 [TPC for 2026 IEEE Consumer Communications & Networking Conference (CCNC 2026)](https://ccnc2026.ieee-ccnc.org/)
@@ -22,10 +26,10 @@ Reviewer for UKRI Funding
 
 [TPC for 19th International Conference on Mobility, Sensing and Networking (2023)](https://ieee-msn.org/2023/progcom.php)
 
-[Reviewer for IEEE ICDCS 2024](https://icdcs2024.icdcs.org/)
+[TPC for IEEE ICDCS 2024](https://icdcs2024.icdcs.org/)
 
 # Journal
-[Reviewr for IEEE Transactions on Parallel and Distributed Systems]
+[Reviewr for IEEE Transactions on Parallel and Distributed Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)
 
 [Reviewer for IEEE Transactions on Consumer Electronics (IEEE TCE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
 
@@ -37,9 +41,3 @@ Reviewer for UKRI Funding
 
 [Reviewer for Elsevier Computing Networks](https://www.sciencedirect.com/journal/computer-networks)
 
-
-# Teaching
-
- Guest Lecturer at Loughborough University for Cloud Computing
- 
- Researcher Representative in Dept. of Computer Science, 2019-2021.
