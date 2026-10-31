@@ -18,6 +18,12 @@ output: html_document
 
 - Zihan Jia, <strong>Chen Chen</strong>, Alia Asheralieva, Lin Guan, and Ziren Xiao, **[HAN: Adaptive DRL-based Congestion Control via Model Uncertainty](https://ieeexplore.ieee.org/document/11599876)**, IEEE Transactions on Network and Service Management, 2026
 
+- F. A. Ciraci, A. Bujari, <strong>C. Chen</strong>, A. Corradi and A. Sabbioni, **[A QoS-Aware Architecture for Serverless Function Execution in the Cloud Continuum](https://doi.org/10.1109/ISCC70364.2026.11740102)**, 2026 IEEE Symposium on Computers and Communications (ISCC).
+
+- Z. Jia, <strong>C. Chen</strong> and L. Guan, **[POCC: Learning Robust Congestion Control via Pessimistic Offline Reinforcement Learning](https://doi.org/10.1109/ISCC70364.2026.11739965)**, 2026 IEEE Symposium on Computers and Communications (ISCC).
+
+- <strong>C. Chen</strong>, Z. Jia, A. Sabbioni, R. Farahani and L. Jiao, **[Scale: Deep Reinforcement Learning for Container Scheduling in Serverless Edge Computing](https://doi.org/10.1109/ISCC70364.2026.11740018) **, 2026 IEEE Symposium on Computers and Communications (ISCC).
+
 - <strong>Chen Chen</strong>, Lars Nagel, Lin Cui, Weijia Jia, Fung Po Tso, **[FaasOrc: A bi-level function scheduling and caching framework for serverless edge computing](https://doi.org/10.1016/j.jnca.2026.104490)**, Journal of Network and Computer Applications, 2026
 
 - Pedro Juan Rivera Torres, <strong>Chen Chen</strong>, and et.al, **[A Smart-Grid Device Model that Learns by Probabilistic Boolean Network](https://link.springer.com/chapter/10.1007/978-3-031-96157-1_51)**,  Lecture Notes in Networks and Systems, 2026
