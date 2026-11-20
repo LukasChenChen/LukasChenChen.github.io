@@ -52,9 +52,13 @@ I am accepting motivated and talented PhD applications, topics include but not l
 Please email me your CV and transcripts.
 <br>
 <br>
+A fully funded PhD position for Home Students is available [here](https://reschem-nottingham-cdt.ac.uk/wp-content/uploads/2026/10/RADIUS-.pdf), jointly with Nottingham University.
+<br>
+<br>
 
 
 ## News
+#### <em>2026</em> Nov Serverless Computing: A Survey of Programming Models, Orchestration, and Opportunities is accepted by ACM Computing Surveys (IF 30.4) !  
 #### <em>2026</em> Oct [ALPS](https://ieeexplore.ieee.org/document/11723265) is published at IEEE Transactions on Parallel and Distributed Systems (IF 5.9) !  
 #### <em>2026</em> Aug [New paper](https://doi.org/10.1016/j.comcom.2026.108658) accepted at Computer Communications (IF 4.2)!
 #### <em>2026</em> July New paper [HAN: Adaptive DRL-based Congestion Control via Model Uncertainty](https://ieeexplore.ieee.org/document/11599876) accepted by IEEE TNSM (IF 5.7)!
