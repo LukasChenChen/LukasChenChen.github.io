@@ -58,7 +58,7 @@ A fully funded PhD position for Home Students is available [here](https://resche
 
 
 ## News
-#### <em>2026</em> Nov Serverless Computing: A Survey of Programming Models, Orchestration, and Opportunities is accepted by ACM Computing Surveys (IF 30.4) !  
+#### <em>2026</em> Nov [Serverless Computing: A Survey of Programming Models, Orchestration, and Opportunities](https://dl.acm.org/doi/epdf/10.1145/3864440) is accepted by ACM Computing Surveys (IF 30.4) !  
 #### <em>2026</em> Oct [ALPS](https://ieeexplore.ieee.org/document/11723265) is published at IEEE Transactions on Parallel and Distributed Systems (IF 5.9) !  
 #### <em>2026</em> Aug [New paper](https://doi.org/10.1016/j.comcom.2026.108658) accepted at Computer Communications (IF 4.2)!
 #### <em>2026</em> July New paper [HAN: Adaptive DRL-based Congestion Control via Model Uncertainty](https://ieeexplore.ieee.org/document/11599876) accepted by IEEE TNSM (IF 5.7)!
